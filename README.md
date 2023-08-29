@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaminidhakrey&label=Profile%20views&color=0e75b6&style=flat" alt="kaminidhakrey" /> </p>
 
-- 🔭 I’m currently working on **Netflix clone**
+- 🔭 I’m currently working on **Youtube clone**
 
 - 🌱 I’m currently learning **Next.js, Node.js**
 
